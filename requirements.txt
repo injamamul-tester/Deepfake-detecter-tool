@@ -1,0 +1,20 @@
+# Deepfake Detection Tool Requirements
+# Core ML/AI
+torch
+opencv-python
+librosa
+dlib
+mediapipe
+tensorflow
+transformers
+streamlit
+numpy
+scikit-learn
+# For audio
+soundfile
+# For video
+moviepy
+# For face detection
+face-recognition
+# For CLI
+click
